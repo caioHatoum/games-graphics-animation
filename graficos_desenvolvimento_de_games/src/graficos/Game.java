@@ -12,6 +12,7 @@ import javax.swing.JFrame;
 
 public class Game extends Canvas implements Runnable{
 	
+	
 	public static JFrame frame;
 	private boolean isRunning;
 	private Thread thread;
